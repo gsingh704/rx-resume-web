@@ -1,3 +1,4 @@
+[Website](https://gsingh704.github.io/rx-resume-web/)
 # Resume Website Generator
 This is a simple resume website generator that allows you to create a personal resume website using a JSON file from rxresume.
 
