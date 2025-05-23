@@ -1,0 +1,433 @@
+{
+  "basics": {
+    "name": "Gurjant Singh",
+    "headline": "Software Developer",
+    "email": "gurjant.dev@gmail.com",
+    "phone": "+34 123456789",
+    "location": "Vic, Spain",
+    "url": {
+      "label": "",
+      "href": "https://gurjant.fyi/"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://storage.rxresu.me/clrxr58ee04qulbd7i3jqeo2r/pictures/fk1agm2ytnfgq8mj3zwip4op.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "About Me",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Web developer with exceptional problem-solving skills. I enjoy taking on challenges and am constantly looking for new learning opportunities. I have knowledge of many different technologies such as PHP, Laravel, and SAP. I am eager to test my skills in a dynamic and enriching environment. Always eager to learn more.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "jljqq2d1tnyzw5szj24ijg2d",
+          "visible": true,
+          "institution": "Institut Jaume Callís de Vic",
+          "studyType": "Compulsory Secondary Education",
+          "area": "ESO",
+          "score": "",
+          "date": "2020",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "wdn1c1ejzj04h3a8g2xuviqy",
+          "visible": true,
+          "institution": "Institut Cirviànum de Torelló",
+          "studyType": "Intermediate Vocational Training",
+          "area": "Microcomputer Systems and Networks",
+          "score": "",
+          "date": "2022",
+          "summary": "<ul><li><p>Docker, Linux, Scripting</p></li><li><p>Networks, Maintenance</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "wqv3r1sy8d12qzhs2rvbrk3l",
+          "visible": true,
+          "institution": "Institut Cirviànum de Torelló",
+          "studyType": "Higher Vocational Training",
+          "area": "Web Application Development",
+          "score": "",
+          "date": "2024",
+          "summary": "<ul><li><p>Backend: Laravel, Java, PHP</p></li><li><p>Frontend: React, InertiaJS, Tailwind.</p></li><li><p>Mysql, PostgreSQL</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "v2ub3rb2r86gq7ib3zsqs9rh",
+          "visible": true,
+          "company": "SEIDOR",
+          "position": "SAP Developer",
+          "location": "Vic",
+          "date": "01/2024 - Present",
+          "summary": "<ul><li><p>Improve existing programs to better meet clients' needs.</p></li><li><p>Transform from old solutions to new ones like Fiori, SAP cloud edition.</p></li><li><p>Implement new functionalities for the client.</p></li><li><p>Work with various SAP technologies like ABAP, Adobe Forms, Fiori, ABAP in Cloud, etc.</p></li><li><p>Building and maintaining apps built with Node and Javascript</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "www.seidor.com"
+          }
+        },
+        {
+          "id": "h0xgr4yl0d8ik2k2o0a63jpt",
+          "visible": true,
+          "company": "ELFOS SOFTWARE",
+          "position": "Junior Programmer",
+          "location": "Vic",
+          "date": "01/2023 - 03/2023",
+          "summary": "<ul><li><p>Upgrade Delphi from version 10 to 11.</p></li><li><p>Redesign the program.</p></li><li><p>Implement the TMS Web core Framework.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "h1dk6gcdnrca6s3i2z3xg9pv",
+          "visible": true,
+          "company": "VIDEO SERVICE DIGITAL",
+          "position": "Intern",
+          "location": "Vic",
+          "date": "09/2021 - 06/2022",
+          "summary": "<ul><li><p>Repair and maintenance of equipment</p></li><li><p>Hardware and software support for clients</p></li><li><p>Find and fix hardware and software issues</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteer Work",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "gh3lqipncpop6guc7cfkjo1y",
+          "visible": true,
+          "name": "Punjabi",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "pdxtbuaieihqlctqnea80556",
+          "visible": true,
+          "name": "Hindi",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "pe2zffoaxt8ysvzkk2in3eui",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "j6ldpynalffv81oudkvpluki",
+          "visible": true,
+          "name": "Catalan",
+          "description": "",
+          "level": 4
+        },
+        {
+          "id": "tj3qbvuky53fytwkf3j2stzi",
+          "visible": true,
+          "name": "Spanish",
+          "description": "",
+          "level": 4
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 3,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "pom9s6vwbo45bxwsjmeflulo",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "gsa704",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/gsa704/"
+          }
+        },
+        {
+          "id": "cmqvqgq41e4b5brlfs1q1jgh",
+          "visible": true,
+          "network": "Github",
+          "username": "gsingh704",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/gsingh704"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "s9r0nqt2aaymqb1ifvqxlfdx",
+          "visible": true,
+          "name": "ForoCoche",
+          "description": "Fullstack Web with Laravel + Inertia",
+          "date": "",
+          "summary": "ForoCity is a web forum that allows users to create and participate in discussion topics of their city. It has groups divided by cities and topics divided by categories (By using Tags). User can create posts for each topic and comment on them. It has also votes so that user can search for the most popular topics. It also have direct messages between users.",
+          "keywords": [
+            "Laravel",
+            "Inertia",
+            "React",
+            "Tailwind"
+          ],
+          "url": {
+            "label": "",
+            "href": "http://forocity.gurjant.fyi/"
+          }
+        },
+        {
+          "id": "l59v0fdhqhl9x5ajq38huru9",
+          "visible": true,
+          "name": "Apps To Go",
+          "description": "GTK + Python Application",
+          "date": "",
+          "summary": "AppToGo is an application that allows you to run Appimages in portable mode, so that they can be run on almost all modern linux distributions without the need for installation, and with all the data. It also lets user download Appimages from AppImageHub. Its written in Python and GTK4 and I have used LibAdwaita widget make it modern.",
+          "keywords": [
+            "Python",
+            "GTK",
+            "LibAdwaita"
+          ],
+          "url": {
+            "label": "gsingh704/AppsToGo",
+            "href": "https://github.com/gsingh704/AppsToGo"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "ck027xeyug7zdffzhk0w0rzz",
+          "visible": true,
+          "name": "Backend",
+          "description": "I am proficient in Java and Python, with experience in using JavaFX for UI. I also have strong skills in PHP and have worked on web applications using backend frameworks.",
+          "level": 4,
+          "keywords": [
+            "PHP",
+            "Laravel",
+            "Node",
+            "Java"
+          ]
+        },
+        {
+          "id": "rm8e86s14qj4sitpe5kri6q4",
+          "visible": true,
+          "name": "Frontend",
+          "description": "I have strong knowledge of HTML, CSS, and JavaScript. I have also worked with React and Next.js frameworks to build modern, responsive web applications.",
+          "level": 4,
+          "keywords": [
+            "Tailwind",
+            "React",
+            "JS",
+            "Inertia",
+            "CSS"
+          ]
+        },
+        {
+          "id": "zaxpj97yhd8azjq1tkanodqa",
+          "visible": true,
+          "name": "Databases",
+          "description": "I have expertise in CSS frameworks like Bootstrap and TailwindCSS. I am familiar with design patterns and tools like Figma for creating professional UI/UX designs.",
+          "level": 4,
+          "keywords": [
+            "Hana",
+            "MySQL",
+            "NoSQL",
+            "PostgreSQL"
+          ]
+        },
+        {
+          "id": "xrayefrscp7di37hpmvvejco",
+          "visible": true,
+          "name": "SAP",
+          "description": "I have worked with several SAP products including SAP S/4 HANA, Fiori, and the SAP Cloud Platform. I am experienced in SAP GUI, Business One, and ABAP development.",
+          "level": 3,
+          "keywords": [
+            "ABAP",
+            "S/4 Hana",
+            "Fiori",
+            "Adobe Forms"
+          ]
+        },
+        {
+          "id": "xjg10b1knhw8pt6y014ddfpp",
+          "visible": true,
+          "name": "Systems",
+          "description": "I am experienced in deploying websites and managing infrastructure using Git, GitHub, Docker, Docker Compose, and Microsoft Azure. And also managin various Operating Systems like Windows, Linux, and MacOS.",
+          "level": 4,
+          "keywords": [
+            "Linux",
+            "Networks",
+            "Maintenance",
+            "Windows",
+            "Docker"
+          ]
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "glalie",
+    "layout": [
+      [
+        [
+          "summary",
+          "experience",
+          "education",
+          "volunteer",
+          "references"
+        ],
+        [
+          "profiles",
+          "skills",
+          "projects",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#059669"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Sans",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
