@@ -1,0 +1,6 @@
+.li-tag li {
+  list-style-type: disc;
+  margin-left: 1.5rem;   /* Add indentation */
+  margin-bottom: 0.5rem; /* Add spacing between items */
+  font-size: 1rem;      /* Set font size */
+}
